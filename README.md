@@ -1,2 +1,2 @@
-# template-empty-open-repo
-a blank repo with the Github "stuff" for open source projects and community needs
+# friendly-garbanzo
+Township directory && business card rolodex
